@@ -2,9 +2,9 @@
 
 Use in the dir:
 ```
-python3 regex.py [string you want to certification]
+python3 system.py [string you want to certification]
 ```
-it will show what violation that your string have.
+it will show result.
 
 # Bouns questions
 
