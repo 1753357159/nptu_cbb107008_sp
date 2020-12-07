@@ -1,6 +1,6 @@
-# Getting started
+# Run
 
-Run in this directory:
+Use in the dir:
 ```
 python3 regex.py [string you want to certification]
 ```
